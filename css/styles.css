@@ -41,6 +41,8 @@
 
   .logo{
     border-left: thick solid #181515ce;
+    border-right: thick solid #181515ce;
+
   }
 
   .ladoderecho{
@@ -49,6 +51,32 @@
     margin-top: -120px;
   }
 
-  .col-2{
+  
+  
+
+  .medio{
+    border-left: thick solid #181515ce;
     border-right: thick solid #181515ce;
+  }
+
+  .abajo1{
+    border-left: thick solid #181515ce;
+    border-right: thick solid #181515ce;
+    height: 60vh;
+  }
+
+  .textofooter{
+   /* position: absolute;
+    margin-top: 300px;
+    margin-left: 1000px;*/
+    text-align: right;
+  }
+
+  footer{
+    border-left: thick solid #181515ce;
+    border-right: thick solid #181515ce; 
+  }
+
+  .textofooter2{
+    text-align: center;
   }
