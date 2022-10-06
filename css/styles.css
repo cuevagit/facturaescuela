@@ -34,8 +34,9 @@
 
   .nombre{
     position: absolute;
+    height: 30.9vh;
     margin-left: 180px;
-    margin-top: -150px;
+    margin-top: -164px;
     border-right: thick solid #181515ce;
   }
 
